@@ -1,0 +1,35 @@
+
+Normalized Failure Probability: 0.21489972
+Normalized Failure Probability: 0.19318712
+Normalized Failure Probability: 0.17137535
+Normalized Failure Probability: 0.16098927
+Normalized Failure Probability: 0.15003736
+Normalized Failure Probability: 0.15000933
+
+Normalized Failure Probability: 0.20680512
+Normalized Failure Probability: 0.19584897
+Normalized Failure Probability: 0.17226516
+Normalized Failure Probability: 0.16296047
+Normalized Failure Probability: 0.15348172
+Normalized Failure Probability: 0.153468
+
+Normalized Failure Probability: 0.17986615
+Normalized Failure Probability: 0.17483707
+Normalized Failure Probability: 0.15395467
+Normalized Failure Probability: 0.14299908
+Normalized Failure Probability: 0.1359141
+Normalized Failure Probability: 0.13590641
+
+Normalized Failure Probability: 0.15966554
+Normalized Failure Probability: 0.14978285
+Normalized Failure Probability: 0.13188738
+Normalized Failure Probability: 0.123934425
+Normalized Failure Probability: 0.11928012
+Normalized Failure Probability: 0.11927531
+
+Normalized Failure Probability: 0.14003345
+Normalized Failure Probability: 0.1282268
+Normalized Failure Probability: 0.11367927
+Normalized Failure Probability: 0.1061957
+Normalized Failure Probability: 0.1020383
+Normalized Failure Probability: 0.102035165

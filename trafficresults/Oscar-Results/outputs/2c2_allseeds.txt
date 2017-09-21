@@ -1,0 +1,617 @@
+========== No. Request: 5000 ==========
+********** Lambda: 1000 **********
+---------- Bandwidth: 1000 ----------
+Seed No.: 101
+Original Load: 97.47285979645645
+Blocking Probability: 0.0212
+Number of hops: 3.6044
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 102
+Original Load: 100.95137638108234
+Blocking Probability: 0.0214
+Number of hops: 3.5686
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 103
+Original Load: 99.7890464804445
+Blocking Probability: 0.0132
+Number of hops: 3.5948
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 104
+Original Load: 97.45278905232789
+Blocking Probability: 0.0184
+Number of hops: 3.595
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 105
+Original Load: 102.49649609560193
+Blocking Probability: 0.0202
+Number of hops: 3.56
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 106
+Original Load: 98.90956548906833
+Blocking Probability: 0.0112
+Number of hops: 3.6078
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 107
+Original Load: 94.2528211225974
+Blocking Probability: 0.0236
+Number of hops: 3.5698
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 108
+Original Load: 100.89103750702108
+Blocking Probability: 0.0212
+Number of hops: 3.6026
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 109
+Original Load: 100.67274254413901
+Blocking Probability: 0.0166
+Number of hops: 3.619
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 110
+Original Load: 104.85965632970827
+Blocking Probability: 0.0124
+Number of hops: 3.5998
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 111
+Original Load: 101.10599675136949
+Blocking Probability: 0.0166
+Number of hops: 3.6222
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 112
+Original Load: 103.37323593611596
+Blocking Probability: 0.0156
+Number of hops: 3.5958
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 113
+Original Load: 99.13443878421405
+Blocking Probability: 0.0162
+Number of hops: 3.5716
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 114
+Original Load: 99.16045083810776
+Blocking Probability: 0.0196
+Number of hops: 3.6044
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 115
+Original Load: 99.97925938258909
+Blocking Probability: 0.0234
+Number of hops: 3.5546
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 116
+Original Load: 98.99723125621504
+Blocking Probability: 0.0206
+Number of hops: 3.5862
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 117
+Original Load: 99.43844509694445
+Blocking Probability: 0.0168
+Number of hops: 3.5838
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 118
+Original Load: 99.8406517399002
+Blocking Probability: 0.0244
+Number of hops: 3.573
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 119
+Original Load: 96.62595443462381
+Blocking Probability: 0.0254
+Number of hops: 3.5456
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 120
+Original Load: 101.43286723828093
+Blocking Probability: 0.024
+Number of hops: 3.5644
+Value parsing errors: 0
+Timeouts: 0
+
+********** Lambda: 2000 **********
+---------- Bandwidth: 1000 ----------
+Seed No.: 101
+Original Load: 194.9458161517418
+Blocking Probability: 0.139
+Number of hops: 3.284
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 102
+Original Load: 201.90285472864366
+Blocking Probability: 0.1382
+Number of hops: 3.264
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 103
+Original Load: 199.57819417927593
+Blocking Probability: 0.1304
+Number of hops: 3.2818
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 104
+Original Load: 194.9056742400945
+Blocking Probability: 0.1366
+Number of hops: 3.304
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 105
+Original Load: 204.99309710551316
+Blocking Probability: 0.1384
+Number of hops: 3.256
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 106
+Original Load: 197.8192292354848
+Blocking Probability: 0.1256
+Number of hops: 3.315
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 107
+Original Load: 188.50573228187483
+Blocking Probability: 0.1504
+Number of hops: 3.2308
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 108
+Original Load: 201.78217519166458
+Blocking Probability: 0.1536
+Number of hops: 3.2498
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 109
+Original Load: 201.3455848527148
+Blocking Probability: 0.135
+Number of hops: 3.3352
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 110
+Original Load: 209.71941778429013
+Blocking Probability: 0.1248
+Number of hops: 3.2996
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 111
+Original Load: 202.2120963768067
+Blocking Probability: 0.1324
+Number of hops: 3.3118
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 112
+Original Load: 206.7465759559643
+Blocking Probability: 0.126
+Number of hops: 3.322
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 113
+Original Load: 198.2689748709851
+Blocking Probability: 0.1302
+Number of hops: 3.279
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 114
+Original Load: 198.321001950067
+Blocking Probability: 0.147
+Number of hops: 3.2298
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 115
+Original Load: 199.9586189106388
+Blocking Probability: 0.146
+Number of hops: 3.226
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 116
+Original Load: 197.9945621552126
+Blocking Probability: 0.1404
+Number of hops: 3.2488
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 117
+Original Load: 198.87698873680998
+Blocking Probability: 0.1332
+Number of hops: 3.2786
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 118
+Original Load: 199.68140368712176
+Blocking Probability: 0.15
+Number of hops: 3.224
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 119
+Original Load: 193.25200437987064
+Blocking Probability: 0.152
+Number of hops: 3.2036
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 120
+Original Load: 202.86583674514495
+Blocking Probability: 0.1388
+Number of hops: 3.2448
+Value parsing errors: 0
+Timeouts: 0
+
+********** Lambda: 3000 **********
+---------- Bandwidth: 1000 ----------
+Seed No.: 101
+Original Load: 292.418870890458
+Blocking Probability: 0.276
+Number of hops: 2.7658
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 102
+Original Load: 302.85443640129586
+Blocking Probability: 0.2694
+Number of hops: 2.7872
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 103
+Original Load: 299.3674317795502
+Blocking Probability: 0.254
+Number of hops: 2.8288
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 104
+Original Load: 292.35865326721
+Blocking Probability: 0.2578
+Number of hops: 2.8562
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 105
+Original Load: 307.48979499309763
+Blocking Probability: 0.2608
+Number of hops: 2.798
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 106
+Original Load: 296.72898883285035
+Blocking Probability: 0.252
+Number of hops: 2.8506
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 107
+Original Load: 282.7587396911553
+Blocking Probability: 0.2784
+Number of hops: 2.7432
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 108
+Original Load: 302.67340708638096
+Blocking Probability: 0.2752
+Number of hops: 2.7456
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 109
+Original Load: 302.01853318372673
+Blocking Probability: 0.2812
+Number of hops: 2.7518
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 110
+Original Load: 314.5792838525537
+Blocking Probability: 0.2532
+Number of hops: 2.8342
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 111
+Original Load: 303.31829813989896
+Blocking Probability: 0.2764
+Number of hops: 2.7532
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 112
+Original Load: 310.12002470892224
+Blocking Probability: 0.245
+Number of hops: 2.8444
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 113
+Original Load: 297.403600826267
+Blocking Probability: 0.2656
+Number of hops: 2.7748
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 114
+Original Load: 297.4816554661621
+Blocking Probability: 0.2726
+Number of hops: 2.7712
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 115
+Original Load: 299.93807834500296
+Blocking Probability: 0.2856
+Number of hops: 2.684
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 116
+Original Load: 296.9919905585428
+Blocking Probability: 0.2716
+Number of hops: 2.764
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 117
+Original Load: 298.3156308603559
+Blocking Probability: 0.2704
+Number of hops: 2.7796
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 118
+Original Load: 299.52226056895955
+Blocking Probability: 0.2722
+Number of hops: 2.7606
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 119
+Original Load: 289.8781506989312
+Blocking Probability: 0.2828
+Number of hops: 2.6892
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 120
+Original Load: 304.2989106649594
+Blocking Probability: 0.2744
+Number of hops: 2.7502
+Value parsing errors: 0
+Timeouts: 0
+
+********** Lambda: 4000 **********
+---------- Bandwidth: 1000 ----------
+Seed No.: 101
+Original Load: 389.8920306239704
+Blocking Probability: 0.3692
+Number of hops: 2.3796
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 102
+Original Load: 403.80612111103954
+Blocking Probability: 0.3788
+Number of hops: 2.3254
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 103
+Original Load: 399.1567768725432
+Blocking Probability: 0.3654
+Number of hops: 2.3966
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 104
+Original Load: 389.8117327163482
+Blocking Probability: 0.3608
+Number of hops: 2.4242
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 105
+Original Load: 409.9866077218938
+Blocking Probability: 0.3624
+Number of hops: 2.404
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 106
+Original Load: 395.6388497791901
+Blocking Probability: 0.3548
+Number of hops: 2.4246
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 107
+Original Load: 377.0118229669298
+Blocking Probability: 0.3852
+Number of hops: 2.3026
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 108
+Original Load: 403.5647455245579
+Blocking Probability: 0.3824
+Number of hops: 2.3144
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 109
+Original Load: 402.6915703683486
+Blocking Probability: 0.3768
+Number of hops: 2.3426
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 110
+Original Load: 419.4392598186106
+Blocking Probability: 0.3492
+Number of hops: 2.445
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 111
+Original Load: 404.42459393852715
+Blocking Probability: 0.3822
+Number of hops: 2.3296
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 112
+Original Load: 413.4935680799471
+Blocking Probability: 0.3518
+Number of hops: 2.4104
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 113
+Original Load: 396.5383305892999
+Blocking Probability: 0.372
+Number of hops: 2.3314
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 114
+Original Load: 396.6424108342946
+Blocking Probability: 0.3774
+Number of hops: 2.3422
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 115
+Original Load: 399.91763648934744
+Blocking Probability: 0.3816
+Number of hops: 2.2826
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 116
+Original Load: 395.9895141693323
+Blocking Probability: 0.377
+Number of hops: 2.338
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 117
+Original Load: 397.7543749715736
+Blocking Probability: 0.375
+Number of hops: 2.343
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 118
+Original Load: 399.3632086828311
+Blocking Probability: 0.3842
+Number of hops: 2.3176
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 119
+Original Load: 386.5043938714219
+Blocking Probability: 0.3898
+Number of hops: 2.2674
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 120
+Original Load: 405.7320855058784
+Blocking Probability: 0.3672
+Number of hops: 2.3706
+Value parsing errors: 0
+Timeouts: 0
+
+********** Lambda: 5000 **********
+---------- Bandwidth: 1000 ----------
+Seed No.: 101
+Original Load: 487.36526555289964
+Blocking Probability: 0.441
+Number of hops: 2.0536
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 102
+Original Load: 504.75791093688827
+Blocking Probability: 0.448
+Number of hops: 2.0406
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 103
+Original Load: 498.94623724143037
+Blocking Probability: 0.4346
+Number of hops: 2.1194
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 104
+Original Load: 487.2649029817412
+Blocking Probability: 0.4452
+Number of hops: 2.0598
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 105
+Original Load: 512.4835272345128
+Blocking Probability: 0.4378
+Number of hops: 2.0744
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 106
+Original Load: 494.54880160714407
+Blocking Probability: 0.4332
+Number of hops: 2.1014
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 107
+Original Load: 471.26501034122197
+Blocking Probability: 0.4602
+Number of hops: 1.9936
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 108
+Original Load: 504.45617170807554
+Blocking Probability: 0.457
+Number of hops: 2.0022
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 109
+Original Load: 503.3647008393501
+Blocking Probability: 0.4486
+Number of hops: 2.0382
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 110
+Original Load: 524.2993506896123
+Blocking Probability: 0.4286
+Number of hops: 2.0892
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 111
+Original Load: 505.53102538908956
+Blocking Probability: 0.4484
+Number of hops: 2.025
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 112
+Original Load: 516.8672068021548
+Blocking Probability: 0.4324
+Number of hops: 2.0846
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 113
+Original Load: 495.6731780800194
+Blocking Probability: 0.438
+Number of hops: 2.0752
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 114
+Original Load: 495.80325801536645
+Blocking Probability: 0.4506
+Number of hops: 2.027
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 115
+Original Load: 499.89729438077217
+Blocking Probability: 0.4564
+Number of hops: 1.9868
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 116
+Original Load: 494.9871426114387
+Blocking Probability: 0.4522
+Number of hops: 1.9998
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 117
+Original Load: 497.19319577164663
+Blocking Probability: 0.4398
+Number of hops: 2.0746
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 118
+Original Load: 499.20426615958803
+Blocking Probability: 0.459
+Number of hops: 2.019
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 119
+Original Load: 483.13073380159375
+Blocking Probability: 0.4618
+Number of hops: 1.957
+Value parsing errors: 0
+Timeouts: 0
+Seed No.: 120
+Original Load: 507.1653701103955
+Blocking Probability: 0.4524
+Number of hops: 2.016
+Value parsing errors: 0
+Timeouts: 0
+
+
