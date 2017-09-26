@@ -9,7 +9,7 @@ set yrange [-1:2]
 #set ytics ()
 set output  "101_flatline100000.eps" 
 
-set style line 1 lt 2 lc rgb "blue"   lw 2 pt 2 ps 0.001
+set style line 1 lt 2 lc rgb "blue"   lw 2 pt 2 ps 0.1
 set style line 2 lt 3 lc rgb "red"    lw 2 pt 3 ps 0.5
 set style line 3 lt 4 lc rgb "green"  lw 2 pt 4 ps 0.5
 set style line 4 lt 5 lc rgb "black"  lw 2 pt 4 ps 0.5
