@@ -1,14 +1,14 @@
 set terminal postscript eps enhanced color 'NimbusSanL-Regu' 20       
-set title 'Time Vs Normalized Failure Probability'   
-set xlabel 'Time (hours*10000)' font 'NimbusSanL-Regu, 22' 
-set ylabel 'Norm. Failure Probability' font 'NimbusSanL-Regu, 22'
+set title 'Time Vs Arrival of Next Failure'   
+set xlabel 'Time * 10000' font 'NimbusSanL-Regu, 22' 
+set ylabel 'Total periodic failures' font 'NimbusSanL-Regu, 22'
 #set logscale y
-set xrange [0:50000]
-set xtics 0, 10000,50000
-#set xtics ("1"10000,"2" 20000,"3" 30000,"4" 40000,"5" 50000,"6" 60000,"7" 70000,"8" 80000,"9" 90000,"10" 100000)
-set yrange [0.1: 0.25]
-#set ytics ()
-set output  "normalizedfailprobability.eps" 
+set xrange [0:100000]
+set xtics 0,10000,100000
+set xtics ("1"10000,"2" 20000,"3" 30000,"4" 40000,"5" 50000,"6" 60000,"7" 70000,"8" 80000,"9" 90000,"10" 100000)
+set yrange [1:80]
+set ytics 0,10,80
+set output  "101_periodicfailures.eps" 
 
 set style line 1 lt 2 lc rgb "blue"   lw 2 pt 2 ps 0.5
 set style line 2 lt 3 lc rgb "red"    lw 2 pt 3 ps 0.5
@@ -24,9 +24,9 @@ set key top
 #      '' using 1:8:9 notitle w yerrorbars ls 2, '' using 1:8 title "Bhandari- Fixed Sim. Time (50000 hrs) " w lines ls 2
 #      '' using 1:6:7 notitle w yerrorbars ls 3, '' using 1:6 title "Anycast degree=3" w lines ls 3
 
-#plot 'failureoutputs/101_flatline100000.txt' using 2:1 notitle w points ls 1
+plot 'failureoutputs/101_periodicfailures.txt' using 1:2 notitle w lines ls 1
 
-plot 'outputs/normalizedfailprobability.txt' using 1:2 title "Load 100" w lines ls 1,\
+#plot 'outputs/normalizedfailprobability.txt' using 1:2 title "Load 100" w lines ls 1,\
 	'' using 1:3 title "Load 200" w lines ls 2,\
 	'' using 1:4 title "Load 300" w lines ls 3,\
 	'' using 1:5 title "Load 400" w lines ls 4,\
