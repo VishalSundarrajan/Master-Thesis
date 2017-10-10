@@ -1,6 +1,7 @@
 set terminal postscript eps enhanced color 'Helvetica' 22       
 #set title 'Load vs Blocking Probability'  
-set title 'Load vs Number of hops' 
+#set title 'Load vs Number of hops'
+#set title '' 
 set xlabel 'Load' font 'Helvetica, 22' 
 #set ylabel 'Blocking Probability' font 'Helvetica, 22'
 set ylabel 'Number of hops' font 'Helvetica, 22'
