@@ -10,7 +10,7 @@
 
 int main()
 {
-  ReadFile rdfileobj("outputs/bhandari_50000.txt", "Failure", "load:");
+  ReadFile rdfileobj("Oscar-Results/outputs/1c1_failures.txt", "Blocking", "Load:",2);
   math mathobj;
   double std_dev;
   std::vector<std::string> samples; 
@@ -25,7 +25,7 @@ int main()
     samples.clear();
    } 
   
-  FileOutOperation wrfileobj("data/bhandari_50000_data.txt");
+  FileOutOperation wrfileobj("Oscar-Results/data/uni_palin+nonpalin.txt");
   wrfileobj.appendData(mean);
   wrfileobj.appendData(std_error);
   return 0;
