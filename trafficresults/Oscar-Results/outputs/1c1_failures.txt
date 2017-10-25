@@ -87,6 +87,7 @@ StartTime: 8770
 EndTime: 12936
 Simulation Time: 14.816016666666666 Minutes
 TotalRequests: 4064
+
 Seed No: 102
 Blocking Probability: 0.07727158
 Failure Probability: 0.3431533
@@ -99,6 +100,7 @@ StartTime: 8770
 EndTime: 13163
 Simulation Time: 15.34745 Minutes
 TotalRequests: 3973
+
 Seed No: 103
 Blocking Probability: 0.077246845
 Failure Probability: 0.3117789

@@ -1,0 +1,251 @@
+Length:1000
+Load: 100
+Seed No: 101
+Blocking Probability: 0.007778738
+Failure Probability: 0.20905924
+Aborted by Oscars: 9
+Committed, then failed: 240
+Path 1 fails: 364 -124 0.31707317
+Hop counts when path 1 fails: 3.6923077
+Hop counts when path 1 succeeds: 2.448928
+Path 2 fails: 372 -132 0.3240418
+Hop counts when path 2 fails: 4.97043
+Hop counts when path 2 succeeds: 3.4929936
+PathOverlaps: 21
+StartTime: 8761
+EndTime: 9266
+Simulation Time: 8.185666666666666 Minutes
+TotalRequests: 1157
+Seed No: 102
+Blocking Probability: 0.014529915
+Failure Probability: 0.21595837
+Aborted by Oscars: 17
+Committed, then failed: 249
+Path 1 fails: 356 -107 0.30875975
+Hop counts when path 1 fails: 3.539326
+Hop counts when path 1 succeeds: 2.546683
+Path 2 fails: 429 -180 0.37207285
+Hop counts when path 2 fails: 4.8974357
+Hop counts when path 2 succeeds: 3.4439945
+PathOverlaps: 32
+StartTime: 8771
+EndTime: 10080
+Simulation Time: 8.1684 Minutes
+TotalRequests: 1170
+Seed No: 103
+Blocking Probability: 0.01734104
+Failure Probability: 0.20840336
+Aborted by Oscars: 21
+Committed, then failed: 248
+Path 1 fails: 344 -96 0.28907564
+Hop counts when path 1 fails: 3.738372
+Hop counts when path 1 succeeds: 2.6101499
+Path 2 fails: 429 -181 0.3605042
+Hop counts when path 2 fails: 5.195804
+Hop counts when path 2 succeeds: 3.4335039
+PathOverlaps: 28
+StartTime: 8769
+EndTime: 10065
+Simulation Time: 8.65305 Minutes
+TotalRequests: 1211
+
+Load: 200
+Seed No: 101
+Blocking Probability: 0.103039876
+Failure Probability: 0.20114437
+Aborted by Oscars: 261
+Committed, then failed: 457
+Path 1 fails: 656 -199 0.28873238
+Hop counts when path 1 fails: 3.6493902
+Hop counts when path 1 succeeds: 2.133724
+Path 2 fails: 725 -268 0.3191021
+Hop counts when path 2 fails: 4.845517
+Hop counts when path 2 succeeds: 2.9839602
+PathOverlaps: 41
+StartTime: 8762
+EndTime: 9484
+Simulation Time: 20.324683333333333 Minutes
+TotalRequests: 2533
+Seed No: 102
+Blocking Probability: 0.09959839
+Failure Probability: 0.23862623
+Aborted by Oscars: 248
+Committed, then failed: 535
+Path 1 fails: 740 -205 0.33006245
+Hop counts when path 1 fails: 3.6148648
+Hop counts when path 1 succeeds: 2.142857
+Path 2 fails: 837 -302 0.37332737
+Hop counts when path 2 fails: 4.986858
+Hop counts when path 2 succeeds: 3.0066545
+PathOverlaps: 75
+StartTime: 8763
+EndTime: 9897
+Simulation Time: 20.0246 Minutes
+TotalRequests: 2490
+Seed No: 103
+Blocking Probability: 0.108930714
+Failure Probability: 0.22202247
+Aborted by Oscars: 272
+Committed, then failed: 494
+Path 1 fails: 666 -172 0.29932585
+Hop counts when path 1 fails: 3.7492492
+Hop counts when path 1 succeeds: 2.2419443
+Path 2 fails: 826 -332 0.37123597
+Hop counts when path 2 fails: 5.312349
+Hop counts when path 2 succeeds: 2.920407
+PathOverlaps: 57
+StartTime: 8761
+EndTime: 10554
+Simulation Time: 20.434083333333334 Minutes
+TotalRequests: 2497
+
+Load: 300
+Seed No: 101
+Blocking Probability: 0.2433563
+Failure Probability: 0.18569106
+Aborted by Oscars: 989
+Committed, then failed: 571
+Path 1 fails: 868 -297 0.28227642
+Hop counts when path 1 fails: 3.534562
+Hop counts when path 1 succeeds: 1.6326659
+Path 2 fails: 955 -384 0.3105691
+Hop counts when path 2 fails: 4.826178
+Hop counts when path 2 succeeds: 2.314249
+PathOverlaps: 56
+StartTime: 8770
+EndTime: 12936
+Simulation Time: 35.52546666666667 Minutes
+TotalRequests: 4064
+Seed No: 102
+Blocking Probability: 0.24062422
+Failure Probability: 0.23500165
+Aborted by Oscars: 956
+Committed, then failed: 709
+Path 1 fails: 979 -270 0.32449454
+Hop counts when path 1 fails: 3.5097039
+Hop counts when path 1 succeeds: 1.6052104
+Path 2 fails: 1086 -377 0.35996023
+Hop counts when path 2 fails: 4.849908
+Hop counts when path 2 succeeds: 2.2497401
+PathOverlaps: 79
+StartTime: 8770
+EndTime: 13163
+Simulation Time: 35.10978333333333 Minutes
+TotalRequests: 3973
+Seed No: 103
+Blocking Probability: 0.27085912
+Failure Probability: 0.21154499
+Aborted by Oscars: 1094
+Committed, then failed: 623
+Path 1 fails: 822 -199 0.27911714
+Hop counts when path 1 fails: 3.6155717
+Hop counts when path 1 succeeds: 1.6170346
+Path 2 fails: 1038 -415 0.35246179
+Hop counts when path 2 fails: 5.1820807
+Hop counts when path 2 succeeds: 2.0833056
+PathOverlaps: 84
+StartTime: 8760
+EndTime: 10206
+Simulation Time: 35.93955 Minutes
+TotalRequests: 4039
+
+Load: 400
+Seed No: 101
+Blocking Probability: 0.35878262
+Failure Probability: 0.19772172
+Aborted by Oscars: 2063
+Committed, then failed: 729
+Path 1 fails: 1077 -348 0.2921074
+Hop counts when path 1 fails: 3.4187558
+Hop counts when path 1 succeeds: 1.2824738
+Path 2 fails: 1161 -432 0.31489015
+Hop counts when path 2 fails: 4.7502155
+Hop counts when path 2 succeeds: 1.843103
+PathOverlaps: 70
+StartTime: 8760
+EndTime: 9339
+Simulation Time: 54.725833333333334 Minutes
+TotalRequests: 5750
+Seed No: 102
+Blocking Probability: 0.37449712
+Failure Probability: 0.22259508
+Aborted by Oscars: 2141
+Committed, then failed: 796
+Path 1 fails: 1107 -311 0.30956376
+Hop counts when path 1 fails: 3.364047
+Hop counts when path 1 succeeds: 1.2383947
+Path 2 fails: 1267 -471 0.3543065
+Hop counts when path 2 fails: 4.7900553
+Hop counts when path 2 succeeds: 1.6988764
+PathOverlaps: 113
+StartTime: 8764
+EndTime: 11307
+Simulation Time: 61.90338333333333 Minutes
+TotalRequests: 5717
+Seed No: 103
+Blocking Probability: 0.37729
+Failure Probability: 0.20843741
+Aborted by Oscars: 2183
+Committed, then failed: 751
+Path 1 fails: 1009 -258 0.2800444
+Hop counts when path 1 fails: 3.4846382
+Hop counts when path 1 succeeds: 1.247645
+Path 2 fails: 1222 -471 0.3391618
+Hop counts when path 2 fails: 4.9770865
+Hop counts when path 2 succeeds: 1.6610429
+PathOverlaps: 90
+StartTime: 8762
+EndTime: 10407
+Simulation Time: 57.7309 Minutes
+TotalRequests: 5786
+
+Load: 500
+Seed No: 101
+Blocking Probability: 0.44026142
+Failure Probability: 0.1889304
+Aborted by Oscars: 3368
+Committed, then failed: 809
+Path 1 fails: 1211 -402 0.28281176
+Hop counts when path 1 fails: 3.3831544
+Hop counts when path 1 succeeds: 1.0346327
+Path 2 fails: 1325 -516 0.30943483
+Hop counts when path 2 fails: 4.6445284
+Hop counts when path 2 succeeds: 1.4869565
+PathOverlaps: 94
+StartTime: 8760
+EndTime: 9822
+Simulation Time: 76.58228333333334 Minutes
+TotalRequests: 7650
+
+Seed No: 102
+Blocking Probability: 0.43817988
+Failure Probability: 0.20613931
+Aborted by Oscars: 3303
+Committed, then failed: 873
+Path 1 fails: 1248 -375 0.29468712
+Hop counts when path 1 fails: 3.2852564
+Hop counts when path 1 succeeds: 1.0467409
+Path 2 fails: 1438 -565 0.33955136
+Hop counts when path 2 fails: 4.5771904
+Hop counts when path 2 succeeds: 1.4804918
+PathOverlaps: 127
+StartTime: 8762
+EndTime: 10815
+Simulation Time: 88.54025 Minutes
+TotalRequests: 7538
+Seed No: 103
+Blocking Probability: 0.45718032
+Failure Probability: 0.20318918
+Aborted by Oscars: 3486
+Committed, then failed: 841
+Path 1 fails: 1134 -293 0.27397922
+Hop counts when path 1 fails: 3.3121693
+Hop counts when path 1 succeeds: 1.0044677
+Path 2 fails: 1388 -547 0.3353467
+Hop counts when path 2 fails: 4.7572045
+Hop counts when path 2 succeeds: 1.3237133
+PathOverlaps: 101
+StartTime: 8760
+EndTime: 10485
+Simulation Time: 92.30416666666666 Minutes
+TotalRequests: 7625
