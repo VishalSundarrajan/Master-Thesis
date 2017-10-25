@@ -6,10 +6,11 @@
 
 ReadFile::ReadFile() {} //default constructor
 
-ReadFile::ReadFile(std::string fileName,std::string searchWord,std::string breakPoint)
+ReadFile::ReadFile(std::string fileName,std::string searchWord,std::string breakPoint, int skip)
 {
   this->searchWord=searchWord;
   this->breakPoint=breakPoint;
+  this->skip=skip;
   srcFile.open(fileName.c_str());
   current_fPosition=0;
 }
@@ -29,8 +30,11 @@ void ReadFile::fillSeedValues(std::vector<std::string> &v)
    {
      if((searchWord.compare(nextWord))==0)
        {
-        srcFile >> nextWord;
-        srcFile >> nextWord;
+	int i=0;
+	while(i<skip){
+	      srcFile >> nextWord;
+	      i++;
+        }
         v.push_back(nextWord);
         current_fPosition=srcFile.tellg();
        }

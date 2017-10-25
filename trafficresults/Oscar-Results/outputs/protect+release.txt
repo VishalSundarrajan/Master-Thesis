@@ -4,10 +4,10 @@ Blocking Probability: 0.017286085
 Failure Probability: 0.17502199
 Aborted by Oscars: 20
 Committed, then failed: 199
-Path 1 fails: 348
+Path 1 fails: 348 0.3061
 Hop counts when path 1 fails: 4.4425287
 Hop counts when path 1 succeeds: 3.2805934
-Path 2 fails: 378
+Path 2 fails: 378 0.327
 Hop counts when path 2 fails: 6.0793653
 Hop counts when path 2 succeeds: 4.7766366
 PathOverlaps: 0
@@ -15,15 +15,16 @@ StartTime: 8761
 EndTime: 9266
 Simulation Time: 11.458633333333333 Minutes
 TotalRequests: 1157
+
 Seed No: 102
 Blocking Probability: 0.022222223
 Failure Probability: 0.20716783
 Aborted by Oscars: 26
 Committed, then failed: 237
-Path 1 fails: 356
+Path 1 fails: 356 0.311
 Hop counts when path 1 fails: 4.297753
 Hop counts when path 1 succeeds: 3.3144963
-Path 2 fails: 431
+Path 2 fails: 431 0.377
 Hop counts when path 2 fails: 6.0
 Hop counts when path 2 succeeds: 4.692828
 PathOverlaps: 0
@@ -31,15 +32,16 @@ StartTime: 8771
 EndTime: 10080
 Simulation Time: 11.4758 Minutes
 TotalRequests: 1170
+
 Seed No: 103
 Blocking Probability: 0.037985135
 Failure Probability: 0.20515022
 Aborted by Oscars: 46
 Committed, then failed: 239
-Path 1 fails: 354
+Path 1 fails: 354 0.304
 Hop counts when path 1 fails: 4.545198
 Hop counts when path 1 succeeds: 3.270712
-Path 2 fails: 425
+Path 2 fails: 425 0.365
 Hop counts when path 2 fails: 6.3717647
 Hop counts when path 2 succeeds: 4.5139947
 PathOverlaps: 0
@@ -54,10 +56,10 @@ Blocking Probability: 0.147651
 Failure Probability: 0.1866605
 Aborted by Oscars: 374
 Committed, then failed: 403
-Path 1 fails: 630
+Path 1 fails: 630 0.292
 Hop counts when path 1 fails: 4.3333335
 Hop counts when path 1 succeeds: 2.6568575
-Path 2 fails: 713
+Path 2 fails: 713 0.33
 Hop counts when path 2 fails: 6.0154276
 Hop counts when path 2 succeeds: 3.8192308
 PathOverlaps: 0
@@ -65,15 +67,16 @@ StartTime: 8762
 EndTime: 9484
 Simulation Time: 26.635566666666666 Minutes
 TotalRequests: 2533
+
 Seed No: 102
 Blocking Probability: 0.13453816
 Failure Probability: 0.22412993
 Aborted by Oscars: 335
 Committed, then failed: 483
-Path 1 fails: 721
+Path 1 fails: 721 0.335
 Hop counts when path 1 fails: 4.377254
 Hop counts when path 1 succeeds: 2.7015264
-Path 2 fails: 813
+Path 2 fails: 813 0.377
 Hop counts when path 2 fails: 6.2300124
 Hop counts when path 2 succeeds: 3.844365
 PathOverlaps: 0
@@ -81,15 +84,16 @@ StartTime: 8763
 EndTime: 9897
 Simulation Time: 28.061583333333335 Minutes
 TotalRequests: 2490
+
 Seed No: 103
 Blocking Probability: 0.14617541
 Failure Probability: 0.22560975
 Aborted by Oscars: 365
 Committed, then failed: 481
-Path 1 fails: 680
+Path 1 fails: 680 0.319
 Hop counts when path 1 fails: 4.5485296
 Hop counts when path 1 succeeds: 2.7727022
-Path 2 fails: 841
+Path 2 fails: 841 0.3945
 Hop counts when path 2 fails: 6.450654
 Hop counts when path 2 succeeds: 3.7729468
 PathOverlaps: 0
@@ -104,10 +108,10 @@ Blocking Probability: 0.27042323
 Failure Probability: 0.18111299
 Aborted by Oscars: 1099
 Committed, then failed: 537
-Path 1 fails: 842
+Path 1 fails: 842 0.284
 Hop counts when path 1 fails: 4.344418
 Hop counts when path 1 succeeds: 2.1638734
-Path 2 fails: 993
+Path 2 fails: 993 0.335
 Hop counts when path 2 fails: 5.9244714
 Hop counts when path 2 succeeds: 3.088896
 PathOverlaps: 0
@@ -115,15 +119,16 @@ StartTime: 8770
 EndTime: 12936
 Simulation Time: 44.43861666666667 Minutes
 TotalRequests: 4064
+
 Seed No: 102
 Blocking Probability: 0.25648126
 Failure Probability: 0.21597834
 Aborted by Oscars: 1019
 Committed, then failed: 638
-Path 1 fails: 964
+Path 1 fails: 964 0.326
 Hop counts when path 1 fails: 4.3371367
 Hop counts when path 1 succeeds: 2.1661682
-Path 2 fails: 1076
+Path 2 fails: 1076 0.3629
 Hop counts when path 2 fails: 6.0288105
 Hop counts when path 2 succeeds: 3.128754
 PathOverlaps: 0
@@ -131,15 +136,16 @@ StartTime: 8770
 EndTime: 13163
 Simulation Time: 45.47815 Minutes
 TotalRequests: 3973
+
 Seed No: 103
 Blocking Probability: 0.28769496
 Failure Probability: 0.21063608
 Aborted by Oscars: 1162
 Committed, then failed: 606
-Path 1 fails: 850
+Path 1 fails: 850 0.295
 Hop counts when path 1 fails: 4.4964705
 Hop counts when path 1 succeeds: 2.1288805
-Path 2 fails: 1068
+Path 2 fails: 1068 0.37
 Hop counts when path 2 fails: 6.351124
 Hop counts when path 2 succeeds: 2.874453
 PathOverlaps: 0
@@ -154,10 +160,10 @@ Blocking Probability: 0.38782609
 Failure Probability: 0.1846591
 Aborted by Oscars: 2230
 Committed, then failed: 650
-Path 1 fails: 1048
+Path 1 fails: 1048 0.298
 Hop counts when path 1 fails: 4.3129773
 Hop counts when path 1 succeeds: 1.6688644
-Path 2 fails: 1158
+Path 2 fails: 1158 0.329
 Hop counts when path 2 fails: 5.8601036
 Hop counts when path 2 succeeds: 2.4309669
 PathOverlaps: 0
@@ -165,15 +171,16 @@ StartTime: 8760
 EndTime: 9339
 Simulation Time: 63.208083333333335 Minutes
 TotalRequests: 5750
+
 Seed No: 102
 Blocking Probability: 0.37502187
 Failure Probability: 0.21914357
 Aborted by Oscars: 2144
 Committed, then failed: 783
-Path 1 fails: 1128
+Path 1 fails: 1128 0.3157
 Hop counts when path 1 fails: 4.268617
 Hop counts when path 1 succeeds: 1.7049466
-Path 2 fails: 1308
+Path 2 fails: 1308 0.366
 Hop counts when path 2 fails: 5.9785933
 Hop counts when path 2 succeeds: 2.407802
 PathOverlaps: 0
@@ -181,15 +188,16 @@ StartTime: 8764
 EndTime: 11307
 Simulation Time: 70.64508333333333 Minutes
 TotalRequests: 5717
+
 Seed No: 103
 Blocking Probability: 0.39975804
 Failure Probability: 0.205298
 Aborted by Oscars: 2313
 Committed, then failed: 713
-Path 1 fails: 1039
+Path 1 fails: 1039 0.299
 Hop counts when path 1 fails: 4.3243504
 Hop counts when path 1 succeeds: 1.653676
-Path 2 fails: 1244
+Path 2 fails: 1244 0.358
 Hop counts when path 2 fails: 6.126206
 Hop counts when path 2 succeeds: 2.274989
 PathOverlaps: 0
@@ -204,10 +212,10 @@ Blocking Probability: 0.4745098
 Failure Probability: 0.18084577
 Aborted by Oscars: 3630
 Committed, then failed: 727
-Path 1 fails: 1186
+Path 1 fails: 1186 0.295
 Hop counts when path 1 fails: 4.253794
 Hop counts when path 1 succeeds: 1.3405012
-Path 2 fails: 1316
+Path 2 fails: 1316 0.327
 Hop counts when path 2 fails: 5.773556
 Hop counts when path 2 succeeds: 1.9748974
 PathOverlaps: 0
@@ -221,10 +229,10 @@ Blocking Probability: 0.45847705
 Failure Probability: 0.20431161
 Aborted by Oscars: 3456
 Committed, then failed: 834
-Path 1 fails: 1270
+Path 1 fails: 1270 0.311
 Hop counts when path 1 fails: 4.1503935
 Hop counts when path 1 succeeds: 1.385769
-Path 2 fails: 1450
+Path 2 fails: 1450 0.355
 Hop counts when path 2 fails: 5.7827587
 Hop counts when path 2 succeeds: 1.9909658
 PathOverlaps: 0
@@ -238,10 +246,10 @@ Blocking Probability: 0.47331148
 Failure Probability: 0.19820717
 Aborted by Oscars: 3609
 Committed, then failed: 796
-Path 1 fails: 1162
+Path 1 fails: 1162 0.289
 Hop counts when path 1 fails: 4.2022376
 Hop counts when path 1 succeeds: 1.3632988
-Path 2 fails: 1438
+Path 2 fails: 1438 0.358
 Hop counts when path 2 fails: 5.9840055
 Hop counts when path 2 succeeds: 1.8555034
 PathOverlaps: 0
