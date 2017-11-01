@@ -128,7 +128,7 @@ EndTime: 11404
 Simulation Time: 8.020066666666667 Minutes
 TotalRequests: 1180
 
-Load:200
+Load: 200
 Seed No: 101
 Blocking Probability: 0.23568891
 Failure Probability: 0.18336777
