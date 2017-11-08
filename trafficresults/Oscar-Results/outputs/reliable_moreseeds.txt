@@ -6,7 +6,7 @@ Aborted by Oscars: 35
 Committed, then failed: 224
 Path 1 fails: 351 -127 0.31283423
 Hop counts when path 1 fails: 3.6524217
-Hop counts when path 1 succeeds: 2.3635235
+Hop counts when path 1 succeeds: 2.3635235 
 Path 2 fails: 358 -134 0.31907308
 Hop counts when path 2 fails: 4.9553075
 Hop counts when path 2 succeeds: 3.3817272
