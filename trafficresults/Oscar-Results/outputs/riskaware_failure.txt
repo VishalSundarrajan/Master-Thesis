@@ -1,4 +1,4 @@
-
+Load: 50
 Seed No: 101
 Blocking Probability: 0.0063166204
 Failure Probability: 0.040921733
@@ -127,6 +127,8 @@ StartTime: 8761
 EndTime: 8868
 Simulation Time: 16.549033333333334 Minutes
 TotalRequests: 2479
+
+Load: 75
 Seed No: 101
 Blocking Probability: 0.025836615
 Failure Probability: 0.03940389
@@ -255,6 +257,8 @@ StartTime: 8762
 EndTime: 9716
 Simulation Time: 28.62755 Minutes
 TotalRequests: 3939
+
+Load: 100
 Seed No: 101
 Blocking Probability: 0.06678261
 Failure Probability: 0.04416698
@@ -383,6 +387,8 @@ StartTime: 8765
 EndTime: 10029
 Simulation Time: 42.10763333333333 Minutes
 TotalRequests: 5568
+
+Load: 125
 Seed No: 101
 Blocking Probability: 0.14039215
 Failure Probability: 0.0381691
@@ -511,6 +517,8 @@ StartTime: 8761
 EndTime: 9039
 Simulation Time: 61.73558333333333 Minutes
 TotalRequests: 7490
+
+Load: 150
 Seed No: 101
 Blocking Probability: 0.23422514
 Failure Probability: 0.04245221
