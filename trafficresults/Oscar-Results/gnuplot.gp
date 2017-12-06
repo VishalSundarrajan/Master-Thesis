@@ -11,9 +11,9 @@ set tics font "Helvetica,22"
 set xrange [50:150]
 set xtics 50,25,150
 #set xtics ("1"10000,"2" 20000,"3" 30000,"4" 40000,"5" 50000,"6" 60000,"7" 70000,"8" 80000,"9" 90000,"10" 100000)
-set yrange [0.03:0.06]
-set ytics 0.03, 0.005, 0.06 
-set output  "surviv_fail+withrisk.eps" 
+set yrange [0.08:0.15]
+set ytics 0.07, 0.01, 0.15 
+set output  "surviv_path_modified+plot.eps" 
 
 set style line 1 lt 2 lc rgb "blue"   lw 2 pt 2 ps 1
 set style line 2 lt 3 lc rgb "red"    lw 2 pt 3 ps 1
@@ -24,16 +24,15 @@ set style line 6 lt 7 lc rgb "purple" lw 2 pt 7 ps 1
 
 set pointsize 1.5
 set key inside
-set key top
+set key bottom
 set key right
 
-plot 'data/surviv_block+fail.txt' using 1:20:21 notitle w yerrorbars ls 1, '' using 1:20 title "Iterative SP" w lines ls 1,\
-      '' using 1:22:23 notitle w yerrorbars ls 2, '' using 1:22 title "Bhandari" w lines ls 2,\
-      '' using 1:24:25 notitle w yerrorbars ls 3, '' using 1:24 title "Risk-Aware" w lines ls 3
-     # '' using 1:8:9 notitle w yerrorbars ls 4, '' using 1:8 title "Iterative SP (Backup)" w lines ls 4,\
-      #'' using 1:10:11 notitle w yerrorbars ls 5, '' using 1:10 title "Bhandari (Backup)" w lines ls 5,\
+plot 'data/surviv_path.txt' using 1:2:3 notitle w yerrorbars ls 1, '' using 1:2 title "Iterative SP(Primary)" w lines ls 1,\
+      '' using 1:4:5 notitle w yerrorbars ls 2, '' using 1:4 title "Bhandari(Primary)" w lines ls 2,\
+      '' using 1:14:15 notitle w yerrorbars ls 4, '' using 1:14 title "Iterative SP (Backup)" w lines ls 3,\
+      '' using 1:16:17 notitle w yerrorbars ls 5, '' using 1:16 title "Bhandari(Backup)" w lines ls 5
       #'' using 1:12:13 notitle w yerrorbars ls 6, '' using 1:12 title "Risk-Aware (Backup)" w lines ls 6
-
+       # '' using 1:24:25 notitle w yerrorbars ls 3, '' using 1:24 title "Risk-Aware" w lines ls 3
 #plot 'data/hold.txt' using 1:2:3 notitle w yerrorbars ls 1, '' using 1:2 notitle w lines ls 1
 
 #plot 'outputs/normalizedfailprobability.txt' using 1:2 title "Load 100" w lines ls 1,\
