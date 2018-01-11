@@ -1,3 +1,2 @@
-# Oscar-Traffic-Results
-The Results and data point files of the OSCAR traffic analysis 
-Latest Update: Failure-> Bhandari and Bhandari Restoration
+# Master's thesis
+This repository holds the final draft of master's thesis and also holds the results, data point files, plots (Graph) related to the thesis.
