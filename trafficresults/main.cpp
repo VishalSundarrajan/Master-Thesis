@@ -10,7 +10,7 @@
 
 int main()
 {
-  ReadFile rdfileobj("Oscar-Results/outputs/1c1_failures.txt", "Blocking", "Load:",2);
+  ReadFile rdfileobj("Oscar-Results/outputs/1c1_failures.txt", "Blocking”, 2, "Load:”, ”100”);
   math mathobj;
   double std_dev;
   std::vector<std::string> samples; 

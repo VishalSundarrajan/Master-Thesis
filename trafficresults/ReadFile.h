@@ -8,12 +8,12 @@
 class ReadFile
 {
   private:
-   std::string fileName, searchWord, breakPoint, nextWord;
+   std::string fileName, searchWord, breakPoint, nextWord, firstLoadVal;
    std::ifstream srcFile;
    int current_fPosition,skip;
   public:
    ReadFile();
-   ReadFile(std::string,std::string,std::string, int);
+   ReadFile(std::string,std::string,int,std::string,std::string);
    ~ReadFile();
    void fillSeedValues(std::vector<std::string>&);
 };
